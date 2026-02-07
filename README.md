@@ -1,45 +1,76 @@
-# Halo, Saya Naufal Habibi! 👋
+<!-- HEADER: Gradient Waving Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=020617,3b82f6,7000ff,020617&height=300&section=header&text=Naufal%20Habibi&fontSize=80&fontAlignY=38&desc=Software%20Engineer%20Student%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=20&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=XyRoHabibi&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</p>
+<!-- TYPING EFFECT: Animasi Teks berjalan -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+%26+High-Performance+Web+Apps;Specializing+in+Next.js,+TypeScript,+%26+Tailwind;Crafting+Modern+User+Experiences...;Code+is+like+humor,+when+you+explain+it,+it's+bad." alt="Typing SVG" />
+  </a>
+</div>
 
-### 💫 Tentang Saya
-- 🎓 **Software Engineer Student** yang berfokus pada pengembangan aplikasi web modern.
-- 💼 Saat ini sedang menjalani **Magang sebagai Web Developer**.
-- 🚀 Sedang membangun **Akses Legal Indonesia**, sebuah aplikasi web untuk mempermudah akses hukum bagi masyarakat.
-- 🌱 Sedang mendalami ekosistem **Next.js** dan **TypeScript**.
+<br/>
 
----
+<!-- DASHBOARD GRID SYSTEM -->
+<!-- Layout ini membagi layar menjadi dua kolom seperti Dashboard Admin -->
+<div align="center">
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <br>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
+| **🔥 Battle Station (Tech Stack)** | **📊 Github Analytics** |
+| :---: | :---: |
+| <br/> **Core Stack:** <br/> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&theme=dark" /></a> <br/><br/> **Backend & Tools:** <br/> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,supabase,git,vscode,figma,postman&perline=4&theme=dark" /></a> <br/><br/> *Focusing on Clean Architecture* | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=XyRoHabibi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=7000ff&hide=stars,issues" height="180" /></a> |
 
----
+</div>
 
-### 📊 Aktivitas GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XyRoHabibi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyRoHabibi&layout=compact&theme=tokyonight" />
-</p>
+<!-- SECONDARY GRID: Languages & Streak -->
+<div align="center">
 
----
+| **🏆 Commit Streak** | **💻 Top Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=XyRoHabibi&theme=tokyonight&hide_border=true&background=0d1117&ring=7000ff&fire=3b82f6&currStreakLabel=3b82f6" height="160" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyRoHabibi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7000ff&langs_count=6" height="160" /> |
 
-### 📫 Mari Terhubung!
-<p align="left">
-  <a href="mailto:falbie790@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+</div>
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+<br/>
+
+<!-- FEATURED PROJECTS: Layout Card Horizontal -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+| <img src="https://skillicons.dev/icons?i=ts,tailwind&theme=dark&perline=2" width="60px"> <br/> **Sistem Manajemen Kontak** | <img src="https://skillicons.dev/icons?i=nextjs,supabase&theme=dark&perline=2" width="60px"> <br/> **QuickWallet - Finance App** |
+| :--- | :--- |
+| > 🔹 **Sistem Manajemen Kontak Terpadu.** <br/> > Fitur lengkap: CRUD, Import/Export, dan kirim email langsung dari sistem. Fokus pada efisiensi data. | > 🔹 **Dashboard Finansial Modern.** <br/> > Tracking pengeluaran realtime, konversi mata uang, dan budget alerts. UI Minimalis & Cepat. |
+| <div align="center"><a href="#"><img src="https://img.shields.io/badge/View_Project-3b82f6?style=for-the-badge&logo=github&logoColor=white" height="28"/></a></div> | <div align="center"><a href="#"><img src="https://img.shields.io/badge/View_Project-7000ff?style=for-the-badge&logo=github&logoColor=white" height="28"/></a></div> |
+
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION GRAPH: Snake Animation -->
+<h2 align="center">🧩 Contribution History</h2>
+<div align="center">
+  <img src="https://github.com/XyRoHabibi/XyRoHabibi/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+</div>
+
+<br/>
+
+<!-- FOOTER: Social Links -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=020617,3b82f6,7000ff&height=100&section=footer" width="100%" />
+  
+  <br/>
+  
+  <a href="mailto:naufal@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/XyRoHabibi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/XyRoHabibi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+  <p><i>Based in Indonesia 🇮🇩 • © 2026 Naufal Habibi</i></p>
+</div>
