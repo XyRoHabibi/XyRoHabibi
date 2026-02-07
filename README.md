@@ -1,7 +1,7 @@
 # Halo, Saya Naufal Habibi! 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=XyroHabibi&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=XyRoHabibi&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 ### 💫 Tentang Saya
@@ -29,8 +29,8 @@
 
 ### 📊 Aktivitas GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XyroHabibi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyroHabibi&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XyRoHabibi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyRoHabibi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
