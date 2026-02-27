@@ -50,11 +50,7 @@
 <!-- CONTRIBUTION GRAPH: Snake Animation -->
 <h2 align="center">🧩 Contribution History</h2>
 <div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyRoHabibi/XyRoHabibi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyRoHabibi/XyRoHabibi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/XyRoHabibi/XyRoHabibi/output/pacman-contribution-graph.svg">
-</picture>
+  <img src="https://pacman.abozanona.me?username=XyRoHabibi" />
 
 ###
 </div>
